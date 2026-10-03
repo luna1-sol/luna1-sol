@@ -53,4 +53,4 @@
 
 ###
 
-<p align="left">I'm a student at "National College of Technology".<br><br>I enjoy backend development, especially using Rust and Go.<br><br>Rust is God!!!!!
+<p align="left">I'm a student at "National College of Technology".
