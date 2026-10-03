@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My skills</h2>
+<h2 align="left">My Skills</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Github Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
