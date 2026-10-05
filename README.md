@@ -43,8 +43,8 @@
 ###
 
 <p align="left">
-  <img alt="github status" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api?username=luna1-so&count_private=true&show_icons=true&theme=github_dark_dimmed">
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=luna1-so&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL,NSIS&exclude_repo=Cortex-RE">
+  <img alt="github status" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api?username=luna1-sol&count_private=true&show_icons=true&theme=github_dark_dimmed">
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=luna1-sol&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL,NSIS&exclude_repo=Cortex-RE">
 </p>
 
 ###
