@@ -1,57 +1,82 @@
-<h1 align="center">Hi, there! I'm luna!</h1>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Hi,%20there!%20I'm%20luna!&fontSize=45&fontColor=c0caf5&animation=fadeIn&fontAlignY=38" />
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Student+%40+National+College+of+Technology;Researching+LLMs+%26+Cybersecurity;Competitive+Programmer" />
+</p>
 
-<h2 align="left">Introduction</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luna1-sol&color=7aa2f7&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/luna1-sol?tab=followers">
+    <img src="https://img.shields.io/github/followers/luna1-sol?style=flat-square&color=bb9af7&labelColor=1a1b27" />
+  </a>
+</p>
 
-###
+---
 
-<p align="left">I'm a student at "National College of Technology".
-<p align="left">I'm interested in LLMs and cybersecurity, and I'm currently researching these fields.
-  
-###
+## 🌙 Introduction
 
-<h2 align="left">My Skills</h2>
+```rust
+struct Luna {
+    school: &'static str,
+    interests: [&'static str; 3],
+}
 
-###
+const ME: Luna = Luna {
+    school: "National College of Technology",
+    interests: ["LLM", "Cybersecurity", "Competitive Programming"],
+};
+```
 
-<h3 align="left">Languages</h3>
+- 🎓 I'm a student at **National College of Technology**
+- 🔬 I'm interested in **LLMs** and **Cybersecurity**, and currently researching these fields
+- 🏆 I also enjoy **Competitive Programming**
 
-###
+---
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,go,swift,ts,js,py)](https://skillicons.dev)
+## 🛠️ My Skills
 
-###
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,swift,ts,js,py&theme=dark" />
+  </a>
+</p>
 
-<h3 align="left">Frameworks</h3>
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri&theme=dark" />
+  </a>
+</p>
 
-###
+<h3 align="center">Editors & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,apple&theme=dark" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri,)](https://skillicons.dev)
+---
 
-###
+## 📊 GitHub Stats
 
-<h3 align="left">Editors</h3>
+<p align="center">
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api?username=luna1-sol&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=luna's%20GitHub%20Stats" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=luna1-sol&theme=tokyonight&hide_border=true&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL,NSIS&exclude_repo=Cortex-RE" />
+</p>
 
-###
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=luna1-sol&theme=tokyonight&hide_border=true" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev)
+<p align="center">
+  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luna1-sol&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-###
-
-<h3 align="left">Other</h3>
-
-###
-
-<p>Competitive Programming, LLM, Cybersecurity</p>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<p align="left">
-  <img alt="github status" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api?username=luna1-sol&count_private=true&show_icons=true&theme=github_dark_dimmed">
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=luna1-sol&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL,NSIS&exclude_repo=Cortex-RE">
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" />
 </p>
