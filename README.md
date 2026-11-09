@@ -44,19 +44,6 @@ I'm a student researcher at **National College of Technology**, working at the i
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,swift,ts,js,py&theme=dark" />
   </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri,vscode,neovim,git,github&theme=dark" />
-  </a>
-</p>
-
-<p align="center"><b>AI & Security</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/Ollama-1a1b27?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
-  <img src="https://img.shields.io/badge/Wireshark-1a1b27?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
 </p>
 
 ---
