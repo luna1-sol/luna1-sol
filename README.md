@@ -38,61 +38,25 @@ I'm a student researcher at **National College of Technology**, working at the i
 
 ---
 
-## 🔬 Research Focus
+## 🛠️ My Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Security of LLMs</h3>
-      <ul>
-        <li>Prompt Injection & Jailbreak analysis</li>
-        <li>Adversarial robustness of LLMs</li>
-        <li>Safe deployment of AI agents</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 LLMs for Security</h3>
-      <ul>
-        <li>AI-assisted reverse engineering</li>
-        <li>Automated vulnerability detection</li>
-        <li>LLM-powered security tooling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,swift,ts,js,py&theme=dark" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri,vscode,neovim,git,github&theme=dark" />
+  </a>
+</p>
 
-<h3 align="center">Research Stack</h3>
+<p align="center"><b>AI & Security</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/Ollama-1a1b27?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
   <img src="https://img.shields.io/badge/Wireshark-1a1b27?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-</p>
-
----
-
-## 🛠️ My Skills
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,swift,ts,js,py&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">Frameworks</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">Editors & Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,apple&theme=dark" />
-  </a>
 </p>
 
 ---
