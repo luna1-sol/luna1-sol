@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=LLM+%C3%97+Cybersecurity+Researcher;Exploring+the+Security+of+AI;Using+AI+to+Build+Better+Defenses;Student+%40+National+College+of+Technology" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luna1-sol&color=7aa2f7&style=flat-square&label=Profile+Views" />
-  <a href="https://github.com/luna1-sol?tab=followers">
-    <img src="https://img.shields.io/github/followers/luna1-sol?style=flat-square&color=bb9af7&labelColor=1a1b27" />
-  </a>
-</p>
-
 ---
 
 ## 🌙 Introduction
