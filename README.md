@@ -78,13 +78,6 @@ I'm a student researcher at **National College of Technology**, working at the i
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-neon-six-tcvav26z4d.vercel.app/api/top-langs/?username=luna1-sol&theme=tokyonight&hide_border=true&layout=compact&hide=Jupyter%20Notebook,POV-RAY%20SDL,NSIS&exclude_repo=Cortex-RE" />
 </p>
 
-<p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=luna1-sol&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luna1-sol&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 <!-- Footer -->
 <p align="center">
