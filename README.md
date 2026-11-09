@@ -46,6 +46,18 @@ I'm a student researcher at **National College of Technology**, working at the i
   </a>
 </p>
 
+<p align="center"><b>🧩 Open Source & Local LLM</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-1a1b27?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639" />
+  <img src="https://img.shields.io/badge/Local%20LLM-1a1b27?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+</p>
+
+<p align="center">
+  Actively working on <b>open-source projects</b> around <b>local LLMs</b> —<br />
+  running, evaluating, and building tools for models that run on your own machine.
+</p>
+
 ---
 
 ## 📊 GitHub Stats
