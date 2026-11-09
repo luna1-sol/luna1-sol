@@ -23,14 +23,12 @@ struct Researcher {
     name: &'static str,
     affiliation: &'static str,
     focus: [&'static str; 2],
-    question: &'static str,
 }
 
 const LUNA: Researcher = Researcher {
     name: "luna",
     affiliation: "National College of Technology",
     focus: ["Large Language Models", "Cybersecurity"],
-    question: "How can AI be both secured and used for security?",
 };
 ```
 
@@ -38,7 +36,7 @@ I'm a student researcher at **National College of Technology**, working at the i
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,16 +44,29 @@ I'm a student researcher at **National College of Technology**, working at the i
   </a>
 </p>
 
-<p align="center"><b>🧩 Open Source & Local LLM</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-1a1b27?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639" />
-  <img src="https://img.shields.io/badge/Local%20LLM-1a1b27?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-</p>
+---
+
+## 📚 Working On & Learning
 
 <p align="center">
-  Actively working on <b>open-source projects</b> around <b>local LLMs</b> —<br />
-  running, evaluating, and building tools for models that run on your own machine.
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-1a1b27?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
+</p>
+
+- **LLMs** — how they work, how they fail, and how to make them safer
+- **Cybersecurity** — reverse engineering and vulnerability analysis
+- **Local LLMs & OSS** — running and building open-source tools for models on your own machine
+- **Competitive Programming** — algorithms and problem solving
+
+---
+
+## 📮 Contacts
+
+<p align="center">
+  <a href="https://signal.me/#eu/Uc6NGaRwfxVDU8pYtd1eccTHsRGvQPjXH6GEFT_dCHVbXR8uaL5NTKXmAUT5unYu">
+    <img src="https://img.shields.io/badge/Signal-1a1b27?style=for-the-badge&logo=signal&logoColor=3A76F0" />
+  </a>
 </p>
 
 ---
