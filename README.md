@@ -19,7 +19,7 @@ struct Researcher {
 }
 
 const LUNA: Researcher = Researcher {
-    name: "luna",
+    name: "Luna",
     affiliation: "National College of Technology",
     focus: ["Large Language Models", "Cybersecurity"],
 };
